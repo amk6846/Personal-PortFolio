@@ -46,6 +46,13 @@ nav {
   font-size: 1.5rem;
 }
 
+.nav-links img{
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+}
+
 a {
   color: black;
   text-decoration: none;
@@ -404,6 +411,24 @@ article .icon {
   padding: 0.5rem;
 }
 
+#phone{
+ 
+  font-size: 2em;
+  color: #333;
+  margin-right: 10px;
+
+}
+#facebook{
+  font-size: 2em;
+  color: #333;
+  margin-right: 10px;
+
+}
+#insta{
+  font-size: 2em;
+  color: #333;
+  margin-right: 10px;
+}
 .contact-info-container {
   display: flex;
   align-items: center;
@@ -439,7 +464,7 @@ footer p {
   margin-top: 4%;
   background-color: black;
   height: 6vh;
-  border-radius: 12px;
+  padding: 0px;
 }
 .copy h1{
   color: white;
